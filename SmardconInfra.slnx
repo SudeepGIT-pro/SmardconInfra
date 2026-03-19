@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="Bulky.DataAccess/Bulky.DataAccess.csproj" Id="576c2560-49a7-4b5b-b9ba-a54e063f8af6" />
+  <Project Path="Bulky.Models/Bulky.Models.csproj" Id="8587f099-cf85-4133-aa0f-84bf2ac2d287" />
+  <Project Path="Bulky.Utility/Bulky.Utility.csproj" Id="43777977-4910-41aa-a9d8-71b14eb53c80" />
   <Project Path="Smardcon/Smardcon.csproj" />
 </Solution>
